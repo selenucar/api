@@ -1,4 +1,4 @@
-package get_http_rewuest_method;
+package get_http_request_method;
 
 import base_url.HerOkuAppBaseUrl;
 import io.restassured.response.Response;
